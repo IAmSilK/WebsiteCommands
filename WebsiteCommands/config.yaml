@@ -1,0 +1,11 @@
+join:
+  enabled: false
+  delay: 3 # seconds
+  url: "https://discord.gg/SjFYeFr"
+  message: "Join our Discord server!"
+
+commands:
+- commandName: "discord"
+  description: "Opens the link to join our Discord."
+  url: "https://discord.gg/SjFYeFr"
+  message: "Join our Discord server!"
