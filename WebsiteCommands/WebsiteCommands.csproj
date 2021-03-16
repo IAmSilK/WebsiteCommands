@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net461</TargetFramework>
+	<PackageId>SilK.WebsiteCommands</PackageId>
 	<PackageLicenseExpression>GPL-3.0-or-later</PackageLicenseExpression>
 	<PackageDescription>An OpenMod Unturned plugin which adds commands for website links.</PackageDescription>
     <PackageTags>openmod openmod-plugin unturned</PackageTags>
